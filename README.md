@@ -1,2 +1,2 @@
-# caalberts.github.io
-Repository for GitHub Pages
+# My copy of Tic Tac Toe 
+credit to caalberts
