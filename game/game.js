@@ -54,10 +54,10 @@ function findWinner () {
   if (winningCombination.some(combo =>
     combo.every(tileIndex =>
       tiles[tileIndex].textContent === 'X'))) {
-        return 'X'
+    return 'X'
   } else if (winningCombination.some(combo =>
     combo.every(tileIndex =>
       tiles[tileIndex].textContent === 'O'))) {
-        return 'O'
+    return 'O'
   }
 }
