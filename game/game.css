@@ -1,6 +1,7 @@
 body {
   background: lavender;
   font-family: monospace;
+  /** Comment 1**/
 }
 .status-bar {
   flex-direction: row;
